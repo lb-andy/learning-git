@@ -7,3 +7,5 @@
 这是git2 txt1的第五行
 这是git2 txt1的第六行
 这是git2 txt1的第七行
+这是git1 txt1的第八行
+这是git1 txt1的第九行
